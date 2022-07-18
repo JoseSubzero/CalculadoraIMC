@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraImc</string>
+    <string name="Height">Altura</string>
+    <string name="weight">Peso</string>
+</resources>
