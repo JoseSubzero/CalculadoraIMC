@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circle.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circledarkyellow.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circledeepblue.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circlegreen.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circlelightblue.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circlelightyellow.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circleorange.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/drawable/circlered.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProyects/CalculadoraImc/app/src/main/res/layout/cardview.xml" value="0.67" />
       </map>
     </option>
   </component>

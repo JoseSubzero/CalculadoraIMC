@@ -2,4 +2,13 @@
     <string name="app_name">CalculadoraImc</string>
     <string name="Height">Altura</string>
     <string name="weight">Peso</string>
+    <string name="IMCBoard">TABLA IMC</string>
+    <string name="SevereThiness">Menos de 16.00 : Delgadez Severa</string>
+    <string name="ModerateThiness">16.00 – 16.99 : Delgadez Moderada</string>
+    <string name="LightThiness">17.00 – 18.49 : Delgadez Leve</string>
+    <string name="NormalWeight">18.50 – 24.99 : Peso Normal</string>
+    <string name="PreObesity">25.00 – 29.99 : Preobesidad</string>
+    <string name="LightObesity">30.00 – 34.99 : Obesidad Leve</string>
+    <string name="ModerateObesity">35.00 – 40.00 : Obesidad Media</string>
+    <string name="OverWeight">Mas de 40.00 : Obesidad Mórbida</string>
 </resources>
