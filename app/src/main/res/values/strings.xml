@@ -11,4 +11,5 @@
     <string name="LightObesity">30.00 – 34.99 : Obesidad Leve</string>
     <string name="ModerateObesity">35.00 – 40.00 : Obesidad Media</string>
     <string name="OverWeight">Mas de 40.00 : Obesidad Mórbida</string>
+    <string name="PulsadoAceptar">Has pulsado aceptar</string>
 </resources>
